@@ -18,4 +18,4 @@
 
 ### Conéctate conmigo
 
-- [**LinkedIn**](www.linkedin.com/in/jorge-luis-gallardo-contreras-54532b15b)
+- [**LinkedIn**](https://www.linkedin.com/in/jorge-luis-gallardo-contreras-54532b15b)

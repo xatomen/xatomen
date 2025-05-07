@@ -13,8 +13,8 @@
 ### Tecnologías y herramientas
 
 - **Lenguajes**: C, C++, Javascript, Python, PHP, YAML, Bash, HTML, CSS.
-- **Frameworks**: Next.js, Tailwind CSS, Bootstrap CSS, FastAPI.
-- **Herramientas**: Git, GitHub, GitHub Actions, GtiHub Copilot, Docker, Kubernetes, VS Code, Google Cloud.
+- **Frameworks**: Node.js, Next.js, Tailwind CSS, Bootstrap CSS, FastAPI.
+- **Herramientas**: Git, GitHub, GitHub Actions, GtiHub Copilot, Docker, Kubernetes, Terraform, VS Code, Google Cloud.
 
 ### Conéctate conmigo
 
